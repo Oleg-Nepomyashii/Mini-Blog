@@ -1,0 +1,6 @@
+.preloader_wrapper {
+	z-index: 1;
+	position: absolute;
+	left: 100px;
+}
+

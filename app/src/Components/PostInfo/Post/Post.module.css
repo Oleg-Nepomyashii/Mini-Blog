@@ -1,0 +1,36 @@
+.post_wrapper {
+	width: 800px;
+	background-color: white;
+	margin: 20px auto;
+	position: relative;
+}
+
+.btn_close {
+	text-decoration: none;
+	position: absolute;
+	top: 20px;
+	right: 20px;
+	color: black;
+	font-size: 20px;
+}
+
+.post_title {
+	margin: 0;
+	padding: 20px 20px ;
+	font-size: 30px;
+}
+
+.post_text {
+	margin: 10px 20px;
+	padding: 10px;
+	background-color: grey;
+	width: 80%;
+}
+
+.time {
+	margin: 0 20px;
+}
+
+.views {
+	margin: 5px 20px;
+}	

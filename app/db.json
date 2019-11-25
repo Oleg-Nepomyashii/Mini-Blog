@@ -1,0 +1,44 @@
+{
+  "posts": [
+    {
+      "title": "Some Post",
+      "body": "some text describe",
+      "date": "24.11.2019",
+      "time": "23:39",
+      "views": 19,
+      "id": 11
+    },
+    {
+      "title": "Some Post 2",
+      "body": "some text describe",
+      "date": "25.11.2019",
+      "time": "20:32",
+      "views": 4,
+      "id": 12
+    },
+    {
+      "title": "Some Post 3",
+      "body": "some text describe",
+      "date": "25.11.2019",
+      "time": "20:27",
+      "views": 0,
+      "id": 13
+    },
+    {
+      "title": "Some Post 4",
+      "body": "some text describe",
+      "date": "25.11.2019",
+      "time": "20:17",
+      "views": 1,
+      "id": 14
+    },
+    {
+      "title": "Some Post 5",
+      "body": "some text describe",
+      "date": "25.11.2019",
+      "time": "20:07",
+      "views": 1,
+      "id": 15
+    }
+  ]
+}

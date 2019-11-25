@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+
+* {
+	box-sizing: border-box;
+}
+
+body {
+	margin: 0;
+	background: url('assets/icons/1.jpg') no-repeat center center fixed;
+	font: normal normal 16px Montserrat, sans-serif;
+}

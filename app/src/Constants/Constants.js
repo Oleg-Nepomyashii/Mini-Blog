@@ -1,0 +1,12 @@
+export const GET_ALL_POSTS = 'GET_ALL_POSTS';
+export const ADD_POST = 'ADD_POST';
+export const GET_POST_INFO = 'GET_POST_INFO';
+export const DELETE_POST = 'DELETE_POST';
+export const SET_VIEW = 'SET_VIEW';
+export const SORT_POSTS = 'SORT_POSTS';
+export const SORT_VALUE = 'SORT_VALUE';
+export const SET_FETCHING = 'SET_FETCHING';
+export const SET_DISABLE = 'SET_DISABLE';
+export const POST_BY_TEXT = 'POST_BY_TEXT';
+export const NEW_POST_TITLE_CHANGE = 'NEW_POST_TITLE_CHANGE';
+export const NEW_POST_BODY_CHANGE = 'NEW_POST_BODY_CHANGE';
